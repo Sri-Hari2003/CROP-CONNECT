@@ -4,6 +4,9 @@ Crop Connect is a platform under development aimed at providing various services
 
 ### Features
 Disease Detection: Detects plant diseases using deep learning techniques.
+
 Food Classification: Classifies food items into different categories (e.g., fresh or expired).
-Crop Suggestion: Recommends suitable crops based on user input and environmental factors.
+
+Crop Suggestion: Recommends suitable crops based on the NPK.
+
 Fertilizer Recommendation: Recommends fertilizers based on the NPK (Nitrogen, Phosphorus, Potassium) values of the soil.
